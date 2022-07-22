@@ -1,0 +1,4 @@
+prefect>=2.0b11
+python_dotenv
+s3fs
+
